@@ -1,0 +1,28 @@
+8-week learning plan
+3 hours/day
+
+Approximately 168 study hours, including practice and revision.
+
+Topic
+
+	
+
+Time
+
+
+Computer fundamentals	2 days
+Programming tools + Git/GitHub	3 days
+Java programming basics	12 days
+Problem-solving + algorithms	7 days
+Data structures	8 days
+OOP with Java	10 days
+Databases + SQL	6 days
+Software engineering fundamentals	2 days
+Mini-projects + revision	6 days
+
+
+Total
+
+	
+
+56 days

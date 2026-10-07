@@ -50,7 +50,10 @@ java-learning-journey/
 │
 └── day-10/          # Day 10: Methods & Functions
     ├── javaday10ass1.java
-    └── javaday10ass2.java
+    ├── javaday10ass2.java
+    ├── javaday10ass3.java
+    ├── javaday10ass4.java
+    └── javaday10ass5.java
 ```
 
 ---
@@ -68,7 +71,7 @@ java-learning-journey/
 | **Day 07** | Array Minimum, Array Second Largest | `Innerarraybasics.java`, `javaarray6.java` |
 | **Day 08** | 2D Arrays, Matrix Printing, Matrix Sum, Matrix Max | `javaass6.java`, `javaass7.java`, `javaarr8.java` |
 | **Day 09** | Linear Search, Frequency Counter, Largest & Index | `javaday9as1.java`, `javaday9ass3.java`, `javaarrday9ass4.java`, `javaarrday9ass5.java` |
-| **Day 10** | Methods: Declaration, Invocation, Parameters & Return | `javaday10ass1.java`, `javaday10ass2.java` |
+| **Day 10** | Methods: Declaration, Invocation, Parameters & Return | `javaday10ass1.java`, `javaday10ass2.java`, `javaday10ass3.java`, `javaday10ass4.java`, `javaday10ass5.java` |
 
 ---
 
